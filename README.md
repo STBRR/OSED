@@ -5,8 +5,10 @@ A repo containing helper scripts and notes for everything learned throughout the
 13 Modules that cover the reverse engineering and exploit development of 32-bit Windows binaries.
 
 ### Course Modules
-* [ ] **Windows User Mode Exploit Development: General Course Information**
+* [x] **Windows User Mode Exploit Development: General Course Information**
 * [ ] **WinDbg and x86 Architecture**
+  * [x] 2.2.3.1 Exercises - WinDbg Layout & Attaching to a Process
+  * [x] 2.3.1.1 Exercises - Unassesmbling from Memory
 * [ ] **Exploiting Stack Overflows**
 * [ ] **Exploiting SEH Overflows**
 * [ ] **Introduction to IDA Pro**
